@@ -1,0 +1,67 @@
+{
+  "pages": [
+    {
+      "id": "Home_Page",
+      "isDefault": true
+    },
+    {
+      "id": "Login_Page",
+      "isDefault": false
+    },
+    {
+      "id": "Register_Page",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page_A",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page_B",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page_C",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page_D",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page_E",
+      "isDefault": false
+    },
+    {
+      "id": "Form_Page_F",
+      "isDefault": false
+    },
+    {
+      "id": "Summary",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#EAEDFB",
+  "icon": "email",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
